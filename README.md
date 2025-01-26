@@ -13,7 +13,7 @@ Aqui vamos criar um arquivo chamado encrpterAll.py com o código para criptograf
 
 
 ### Descriptografando os dados
-Nesse arquivo chamado descrpterAll.py vamos inserir o código para descriptografar os arquivos criptografados na pasta corrente, utilizando a mesma chave de 32 bytes, na saída do executravél vai retornar a informação quais arquivos foram removidos a criptografia e o total.
+Nesse arquivo chamado descrypterAll.py vamos inserir o código para descriptografar os arquivos criptografados na pasta corrente, utilizando a mesma chave de 32 bytes, na saída do executravél vai retornar a informação quais arquivos foram removidos a criptografia e o total.
 
 ![image](https://github.com/user-attachments/assets/21b014a7-5401-4199-9e3f-2c04153a7420)
 
