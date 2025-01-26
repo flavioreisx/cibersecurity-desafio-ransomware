@@ -1,0 +1,6 @@
+Arquivo em formato TXT
+
+Este arquivo esta legivel e nao esta criptografado.
+
+By
+Flavio Reis
