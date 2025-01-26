@@ -1,4 +1,4 @@
-# Criando um Ransomware com Python
+# Criando Ransomware com Python
 
 ### Ferramentas
 
